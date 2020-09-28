@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T04:42:12.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="FU5MNonU35dTW_cfkl15" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T04:43:46.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="78W98JNDFdnbjHhs6nNB" version="13.7.5" type="github">
   <diagram id="j31mRTm_-CNbjtzLo3Qr" name="Page-1">
-    <mxGraphModel dx="782" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pvcZD3t7a6kfpfQKi11r-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="180" y="500" width="520" height="520" as="geometry" />
+          <mxGeometry x="180" y="500" width="490" height="490" as="geometry" />
         </mxCell>
         <mxCell id="pvcZD3t7a6kfpfQKi11r-4" value="khách hàng&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="630" width="30" height="60" as="geometry" />
@@ -18,11 +18,6 @@
         </mxCell>
         <mxCell id="pvcZD3t7a6kfpfQKi11r-6" value="Tìm kiếm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="570" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="pvcZD3t7a6kfpfQKi11r-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pvcZD3t7a6kfpfQKi11r-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="870" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="pvcZD3t7a6kfpfQKi11r-8" value="Nhân viên&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="870" width="30" height="60" as="geometry" />
